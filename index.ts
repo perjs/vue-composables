@@ -1,7 +1,2 @@
-import useIntersectionObserver from './src/useIntersectionObserver'
-import useToggle from './src/useToggle'
-
-export default {
-  useToggle,
-  useIntersectionObserver
-}
+export * as useIntersectionObserver from './src/useIntersectionObserver'
+export * as useToggle from './src/useToggle'

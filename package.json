@@ -1,6 +1,6 @@
 {
-  "name": "vue-composables",
-  "version": "1.0.0",
+  "name": "@perjs/vue-composables",
+  "version": "0.0.1",
   "main": "index.js",
   "author": "sszczepanski <sszczepanski@divante.pl>",
   "repository": "git@github.com:perjs/.git",
