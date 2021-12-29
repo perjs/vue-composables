@@ -1,0 +1,14 @@
+{
+  "name": "vue-composables",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sszczepanski <sszczepanski@divante.pl>",
+  "repository": "git@github.com:perjs/.git",
+  "license": "MIT",
+  "devDependencies": {
+    "vue": "next"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
