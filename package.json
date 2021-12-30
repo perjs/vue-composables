@@ -1,12 +1,13 @@
 {
   "name": "@perjs/vue-composables",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "main": "dist/index.js",
   "author": "sszczepanski <sszczepanski@divante.pl>",
   "repository": "git@github.com:perjs/.git",
   "license": "MIT",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "scripts": {
     "build": "tsc",
